@@ -1,2 +1,2 @@
 # C-Exercises
-basic exercises
+basic exercises with C/C++
